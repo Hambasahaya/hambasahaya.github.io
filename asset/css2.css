@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&family=Montserrat:ital,wght@1,100&display=swap');
+
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+
+.gele p:hover {
+    background-color: rgb(28, 148, 203);
+    opacity: 4px;
+}
+
+.gele .logo {
+    margin-top: -150px;
+    display: flex;
+
+}
+
+
+.gele {
+    border-top: 3px dotted royalblue;
+    border-right: 3px dotted darkcyan;
+    margin-top: -400px;
+}
+
+.gele ul:hover {
+    list-style: circle;
+
+}
+
+.atas {
+    background-image: url("fixbet.svg");
+    background-size: cover;
+
+}
+
+.bantu {
+    background-image: url("wave.svg");
+    background-size: cover;
+}
+
+.bantu p {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.sinte {
+    margin-top: 130px;
+    border-top: 3px dotted royalblue;
+}
+
+.bantu a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.sinte p:hover {
+    background-color: rgb(111, 166, 217);
+}
+
+.sinte li:hover {
+    background-color: rgb(123, 123, 123);
+    box-shadow: 5px darkcyan;
+    border-bottom: 2px solid rgb(12, 125, 140);
+}
